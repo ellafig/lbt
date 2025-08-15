@@ -246,18 +246,23 @@ do
                          cdot times divide div
                          dots cdots ldots
                          log ln
-                         pm
+                         pm mp
                          angle degree
                          binom
                          triangle
                          text
                          dot ddot
                          bigoplus bigotimes bigodot 
-                         inf dim
+                         dim det ker
                          mathbb mathcal mathbf 
                          partial nabla hbar
                          varnothing ell 
                          propto simeq
+                         cap cup bigcap bigcup circ
+                         sup inf limsup liminf 
+                         perp mid parallel
+                         Leftarrow Rightarrow
+                         Re Im 
                          ]]
   local alpha = makeset[[alpha beta gamma delta epsilon zeta eta theta iota
                          kappa lambda mu nu xi omicron pi rho sigma tau
